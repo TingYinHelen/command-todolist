@@ -1,6 +1,6 @@
 {
   "name": "command-todolist",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "todolist",
   "main": "index.js",
   "bin": {
