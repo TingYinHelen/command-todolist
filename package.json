@@ -1,0 +1,26 @@
+{
+  "name": "command-todolist",
+  "version": "0.0.1",
+  "description": "todolist",
+  "main": "index.js",
+  "bin": {
+    "tdl": "bin/todolist-bin.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TingYinHelen/command-todolist.git"
+  },
+  "keywords": [
+    "todolist",
+    "command"
+  ],
+  "author": "Helen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TingYinHelen/command-todolist/issues"
+  },
+  "homepage": "https://github.com/TingYinHelen/command-todolist#readme"
+}
